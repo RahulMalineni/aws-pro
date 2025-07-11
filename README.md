@@ -29,33 +29,8 @@ This isn't just another school project - it's my attempt to solve a real problem
 
 Here's a sneak peek at what I've built:
 
-### Dashboard - Your Learning Command Center
-<div align="center">
-  <img src="https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop" alt="EduCloud Dashboard" width="80%" style="border-radius: 10px; margin: 20px 0;">
-</div>
 
-*The dashboard shows your progress, recent activities, and quick actions. I spent weeks getting the layout just right!*
 
-### Lab Catalog - Where the Magic Happens
-<div align="center">
-  <img src="https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop" alt="Lab Catalog" width="80%" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-*Browse through hands-on labs covering everything from basic AWS to advanced Kubernetes deployments.*
-
-### Learning Paths - Your Guided Journey
-<div align="center">
-  <img src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop" alt="Learning Paths" width="80%" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-*Structured learning paths that take you from zero to cloud hero. No more wondering "what should I learn next?"*
-
-### Environment Management - Real Cloud Experience
-<div align="center">
-  <img src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop" alt="Environment Management" width="80%" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-*Manage your lab environments with real-time monitoring and cost tracking. (Currently simulated, but the UI is ready for real integration!)*
 
 ## ✨ What Makes This Special?
 
