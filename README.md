@@ -1,7 +1,7 @@
 # EduCloud - My Cloud Learning Journey 🚀
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop" alt="EduCloud Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
+
   
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge)](https://coruscating-caramel-0fda42.netlify.app)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rahulmalineni/educloud)
