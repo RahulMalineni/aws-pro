@@ -185,7 +185,7 @@ Feel free to use this code for your own learning or projects. If you do, I'd lov
 ---
 
 <div align="center">
-  <p><strong>Built wit lots of  passion for cloud computing</strong></p>
+  <p><strong>Built with lots of  passion for cloud computing</strong></p>
   <p><em>A Computer Science Capstone Project by Rahul Malineni</em></p>
   
   [![Live Demo](https://img.shields.io/badge/🚀%20Try%20EduCloud-Live%20Demo-orange?style=for-the-badge)](https://coruscating-caramel-0fda42.netlify.app)
